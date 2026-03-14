@@ -1,0 +1,48 @@
+Dataset  1 | Batch 1000 | Time:    81.85 ms
+Dataset  2 | Batch 1000 | Time:    82.93 ms
+Dataset  3 | Batch 1000 | Time:    74.06 ms
+Dataset  4 | Batch 1000 | Time:    72.85 ms
+Dataset  5 | Batch 1000 | Time:    83.94 ms
+Dataset  6 | Batch 1000 | Time:    90.52 ms
+Dataset  7 | Batch 1000 | Time:    81.22 ms
+Dataset  8 | Batch 1000 | Time:    78.82 ms
+Dataset  9 | Batch 1000 | Time:    71.10 ms
+Dataset 10 | Batch 1000 | Time:    73.94 ms
+
+========================================
+Configuration: 10x1000 (batch=1000, threads=3)
+Average Time: 79.12 ms
+Total Time: 791.22 ms
+========================================
+
+
+
+Dataset 14 | Batch  500 | Time:    80.62 ms
+Dataset 15 | Batch  500 | Time:    75.74 ms
+Dataset 16 | Batch  500 | Time:    72.47 ms
+Dataset 17 | Batch  500 | Time:    81.54 ms
+Dataset 18 | Batch  500 | Time:    72.10 ms
+Dataset 19 | Batch  500 | Time:    71.31 ms
+Dataset 20 | Batch  500 | Time:    70.82 ms
+
+========================================
+Configuration: 20x500 (batch=500, threads=3)
+Average Time: 76.67 ms
+Total Time: 1533.45 ms
+========================================
+=========================
+
+
+Dataset 94 | Batch  100 | Time:    76.96 ms
+Dataset 95 | Batch  100 | Time:    72.09 ms
+Dataset 96 | Batch  100 | Time:    71.31 ms
+Dataset 97 | Batch  100 | Time:    71.46 ms
+Dataset 98 | Batch  100 | Time:    71.14 ms
+Dataset 99 | Batch  100 | Time:    74.70 ms
+Dataset 100 | Batch  100 | Time:    71.93 ms
+
+========================================
+Configuration: 100x100 (batch=100, threads=3)
+Average Time: 74.28 ms
+Total Time: 7427.89 ms
+========================================

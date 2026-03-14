@@ -1,0 +1,4 @@
+**/*.exe
+/MPI/*.txt
+/OpenMP/*.txt
+/Sequential/*.txt

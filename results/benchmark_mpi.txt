@@ -1,0 +1,45 @@
+Dataset  1 | Batch 1000 | Time:   151.95 ms
+Dataset  2 | Batch 1000 | Time:   145.96 ms
+Dataset  3 | Batch 1000 | Time:   144.24 ms
+Dataset  4 | Batch 1000 | Time:   139.16 ms
+Dataset  5 | Batch 1000 | Time:   138.77 ms
+Dataset  6 | Batch 1000 | Time:   151.19 ms
+Dataset  7 | Batch 1000 | Time:   141.04 ms
+Dataset  8 | Batch 1000 | Time:   139.36 ms
+Dataset  9 | Batch 1000 | Time:   139.48 ms
+Dataset 10 | Batch 1000 | Time:   137.33 ms
++----------------------+----------+----------+----------+
+| Configuration        | Batch    | Avg Time | Total    |
++----------------------+----------+----------+----------+
+| MPI: 10x1000           |     1000 | 142.8468 | 1428.4675 |
++----------------------+----------+----------+----------+
+
+
+Dataset 15 | Batch  500 | Time:   137.50 ms
+Dataset 16 | Batch  500 | Time:   142.47 ms
+Dataset 17 | Batch  500 | Time:   139.87 ms
+Dataset 18 | Batch  500 | Time:   140.40 ms
+Dataset 19 | Batch  500 | Time:   138.68 ms
+Dataset 20 | Batch  500 | Time:   139.41 ms
++----------------------+----------+----------+----------+
+| Configuration        | Batch    | Avg Time | Total    |
++----------------------+----------+----------+----------+
+| MPI: 20x500           |      500 | 141.8568 | 2837.1361 |
++----------------------+----------+----------+----------+
+
+
+
+
+Dataset 93 | Batch  100 | Time:   136.16 ms
+Dataset 94 | Batch  100 | Time:   135.87 ms
+Dataset 95 | Batch  100 | Time:   138.06 ms
+Dataset 96 | Batch  100 | Time:   142.98 ms
+Dataset 97 | Batch  100 | Time:   136.11 ms
+Dataset 98 | Batch  100 | Time:   138.88 ms
+Dataset 99 | Batch  100 | Time:   137.23 ms
+Dataset 100 | Batch  100 | Time:   137.15 ms
++----------------------+----------+----------+----------+
+| Configuration        | Batch    | Avg Time | Total    |
++----------------------+----------+----------+----------+
+| MPI: 100x100           |      100 | 139.0434 | 13904.3355 |
++----------------------+----------+----------+----------+
